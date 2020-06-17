@@ -1,6 +1,6 @@
 # Python State Machine Framework
 
-A simple generative state machine framework. 
+A simple generative state machine framework, inspired by [Quantum Leaps QP/C++](https://www.state-machine.com/qpcpp/). 
 
 ## Getting Started
 
@@ -28,7 +28,7 @@ FORWARD_SIG
 
 You can use our state diagram to show expected behavior. When you run Automata.py, it will generate a small report of the objects created.
 
-![Video Player State Diagram](https://github.com/nglazerdev/logic-gates-inheritance-practice/blob/master/examples/VideoPlayer/VideoPlayerStateDiagram.png)
+![Video Player State Diagram](https://github.com/nickglazer/logic-gates-inheritance-practice/blob/master/examples/VideoPlayer/VideoPlayerStateDiagram.png)
 
 ## Authors
 
