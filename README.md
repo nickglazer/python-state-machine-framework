@@ -28,7 +28,7 @@ FORWARD_SIG
 
 You can use our state diagram to show expected behavior. When you run Automata.py, it will generate a small report of the objects created.
 
-![Video Player State Diagram](https://github.com/nickglazer/logic-gates-inheritance-practice/blob/master/examples/VideoPlayer/VideoPlayerStateDiagram.png)
+![Video Player State Diagram](https://raw.githubusercontent.com/nickglazer/python-state-machine-framework/master/examples/VideoPlayer/VideoPlayerStateDiagram.png)
 
 ## Authors
 
